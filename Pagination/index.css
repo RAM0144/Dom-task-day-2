@@ -1,0 +1,28 @@
+#container{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 100px;
+    
+}
+
+
+button {
+    padding: 15px;
+    background-color: #ffffff;
+    color: #277bb4;
+    border: 1px solid lightgray;
+    font-size: 15px;
+}
+button:hover{
+    background-color: #277bb4;
+    color: #ffffff;
+}
+.change {
+    padding: 40px;
+    color: rgb(110, 103, 103);
+    font-size: 22px;
+    position: relative;
+    top: 105px;
+    left: 30%;
+}
